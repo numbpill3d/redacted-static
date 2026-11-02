@@ -46,7 +46,7 @@ Or from the KDE Store: Extract it to `~/.local/share/kwin/scripts/`, then enable
 | KWin open/close effect | [redacted-censor](https://github.com/numbpill3d/redacted-censor) |
 | Clock plasmoid | [redacted-clock](https://github.com/numbpill3d/redacted-clock) |
 
-Everything at once, with the generators: [redacted](https://github.com/numbpill3d/redacted).
+Everything at once, with the generators: [redacted-kde](https://github.com/numbpill3d/redacted-kde).
 
 ## Tags
 
